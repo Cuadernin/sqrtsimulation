@@ -1,5 +1,5 @@
 # nth root simulation
-Compute the nth root using monte carlo simulation in python.
+Computes the nth root using monte carlo simulation in python.
 ## Problem to solve 📄
 Since we need to find the nth root of any number, then, let n be the number to calculate, we create an interval [0,p] where p belongs to [sqrt(n-1), sqrt(n+1)]. 
 We simulate the throwing of N darts in the initial interval and return the ratio. That ratio is the searched value.
