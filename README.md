@@ -1,7 +1,7 @@
 # nth root simulation
 Computes the nth root using monte carlo simulation in python.
 ## Problem to solve 📄
-Since we need to find the umpteenth root of any number, then, be n the number to calculate, we create an interval [0, p] where p belongs to [sqrt (n-1), sqrt (n 1)]. We simulate the throwing of N darts in the initial interval and return the ratio. That ratio is the searched value.
+Since we need to find the umpteenth root of any number, then, be n the number to calculate, we create an interval [0, p] where p belongs to [sqrt (n-1), sqrt (n+1)]. We simulate the throwing of N darts in the initial interval and return the ratio. That ratio is the searched value.
 ## Input 📋
 * Numero de dardos: _number of darts_
 * Numero a aproximar: _number to which the root will be calculated_
