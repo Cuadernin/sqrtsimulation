@@ -5,7 +5,7 @@ Since we need to find the umpteenth root of any number, then, be n the number to
 ## Input 📋
 * Numero de dardos: _number of darts_
 * Numero a aproximar: _number to which the root will be calculated_
-* Indice de la raiz: _oot grade_
+* Indice de la raiz: _root grade_
 ## Output 📦
 * La aproximacion es: _Simulated value_
 * Error porcentual: _percentage error_
