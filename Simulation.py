@@ -80,7 +80,7 @@ class Aplicacion:
 
     def grafico(self):
         plt.subplots(figsize=(8, 6))
-        plt.suptitle('Aproximacion de raiz de 3', fontsize=15)
+        plt.suptitle(f'Aproximacion de raiz de {num}', fontsize=15)
         plt.plot(self.lx, self.ly, 'r-', label='Aproximacion')
         plt.plot(self.lx, self.ly1, 'g-', label='Valor real')
         plt.xlabel('Numero de iteraciones')
