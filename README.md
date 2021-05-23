@@ -13,4 +13,4 @@ Since we need to find the umpteenth root of any number, then, be n the number to
 * Error porcentual: _percentage error_
 * Valor real: _real value_
 
-####  By Cuadernin
+
